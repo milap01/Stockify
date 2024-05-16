@@ -3,7 +3,7 @@
 ## Backend 
 
 1. To Run this Project first Download the Zip File from GitHub.
-After Downloading the zip file you have to abstract that file.
+After Downloading the zip file you have to extract that file.
 
 2. Then go to the location where you have stored this file and open the terminal at that location.
   
