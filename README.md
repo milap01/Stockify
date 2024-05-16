@@ -21,4 +21,4 @@ After Downloading the zip file you have to abstract that file.
 
 2. then run command "npm run dev".
 
-3. then hot HTTP://localhost:5173/ this URL.
+3. then hit HTTP://localhost:5173/ this URL.
