@@ -15,6 +15,8 @@ After Downloading the zip file you have to extract that file.
    
 6. Then hit http://127.0.0.1:8000/ this URL.
 
+7. In accounts/views.py, find list_stocks view and replace demo to your api_key which you can generate from https://www.alphavantage.co/support/#api-key here.
+
 ## Frontend
 
 1. Go to Frontend Folder and run "npm i"
